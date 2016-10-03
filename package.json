@@ -7,6 +7,7 @@
         "vue-router": "^2.0.0",
         "val-loader": "^0.5.0",
         "raw-loader": "^0.5.1",
+        "css-loader": "^0.25.0",
         "vue-loader": "^9.5.1",
         "webpack": "^1.12.2"
     }
